@@ -1,4 +1,4 @@
-# dot-net-core-social-providers-logins
+# .Net Core Social Providers Logins
 
 1. Set configuration for social providers in appsettings.json. Only one provider is required, but can be multiple.
 
